@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=os7-soft" alt="os7-soft" /></a> </p>
 
 
-###Welcome to my GitHub profile! I am a software engineer with expertise in front-end and back-end development. I focus on building efficient, scalable, and user-friendly applications that solve real-world problems.
+**Welcome to my GitHub profile! I am a software engineer with expertise in front-end and back-end development. I focus on building efficient, scalable, and user-friendly applications that solve real-world problems.**
 
 
 ## 🌟 Technical Skills
@@ -46,8 +46,8 @@
 
 ---
 
-###Feel free to explore my repositories and projects. Contributions, feedback, and collaborations are always welcome!  
-Thank you for visiting!
+**Feel free to explore my repositories and projects. Contributions, feedback, and collaborations are always welcome!  
+Thank you for visiting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
