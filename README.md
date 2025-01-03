@@ -1,43 +1,44 @@
 
 <h1 align="center">Hi 👋, I'm Osama Yeslam</h1>
-<h3 align="center">A passionate Software Engineer from Yemen</h3>
+<h2 align="center">A passionate Software Engineer from Yemen</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=os7-soft&label=Profile%20views&color=0e75b6&style=flat" alt="os7-soft" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=os7-soft" alt="os7-soft" /></a> </p>
 
-<p>
-Welcome to my GitHub profile! I am a software engineer with expertise in front-end and back-end development. I focus on building efficient, scalable, and user-friendly applications that solve real-world problems.
-</p>
 
-### 🌟 Technical Skills
+###Welcome to my GitHub profile! I am a software engineer with expertise in front-end and back-end development. I focus on building efficient, scalable, and user-friendly applications that solve real-world problems.
 
-#### Programming Languages
+
+## 🌟 Technical Skills
+
+### Programming Languages
 - **C++, C#, JavaScript, Dart, PHP, Python**
 
-#### Front-End Development
+### Front-End Development
 - **React.js, Next.js**
 
-#### Back-End Development
+### Back-End Development
 - **ASP.NET Core API, Django, Next.js (Backend)**
 
-#### Mobile Development
+### Mobile Development
 - **Flutter**
 
-#### Databases
+### Databases
 - **SQL Server, MySQL, SQLite**
 
-#### Core Knowledge
+### Core Knowledge
 - Strong foundation in **data structures and algorithms**
 
-### 🚀 What I Work On
+## 🚀 What I Work On
 
 - Building **modern, responsive user interfaces**
 - Developing **secure and scalable back-end systems**
 - Optimizing solutions for **performance and maintainability**
 - Exploring and integrating **emerging technologies**
 
-### 🔧 Tools & Workflow
+## 🔧 Tools & Workflow
 - **Version Control**: Git & GitHub
 - **CI/CD**: GitHub Actions
 - **Code Quality**: Linting and Unit Testing
@@ -45,7 +46,7 @@ Welcome to my GitHub profile! I am a software engineer with expertise in front-e
 
 ---
 
-Feel free to explore my repositories and projects. Contributions, feedback, and collaborations are always welcome!  
+###Feel free to explore my repositories and projects. Contributions, feedback, and collaborations are always welcome!  
 Thank you for visiting!
 
 <h3 align="left">Connect with me:</h3>
