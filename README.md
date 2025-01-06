@@ -9,7 +9,7 @@ I focus on building efficient, scalable, and user-friendly applications that sol
 ## 🌟 Technical Skills
 
 ### Programming Languages
-- **C++, C#, JavaScript, Dart, PHP, Python**
+- **C++, C#, JavaScript, Dart, Python**
 
 ### Front-End Development
 - **React.js, Next.js**
